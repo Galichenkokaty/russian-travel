@@ -1,0 +1,28 @@
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__lang-link/header__lang-link.css);
+@import url(../blocks/header/__lang/header__lang.css);
+@import url(../blocks/lead/lead.css);
+@import url(../blocks/lead/__title/lead__title.css);
+@import url(../blocks/lead/__subtitle/lead__subtitle.css);
+@import url(../blocks/lead/__image/lead__image.css);
+@import url(../blocks/lead/__caption/lead__caption.css);
+@font-face {
+    font-family: 'Inter';
+    src: url(../font/Inter/Inter-Light.otf);
+}
+
+@font-face {
+    font-family: 'Inter bold';
+    src: url(../font/Inter/Inter-Bold.otf);
+}
+
+@font-face {
+    font-family: 'Inter normal';
+    src: url(../font/Inter/Inter-Thin.otf);
+}
+
+body {
+    background-color: #2A2C2F;
+    font-family: 'Inter';
+}
