@@ -11,6 +11,8 @@
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/photos-grid/photos-grid.css);
+@import url(../blocks/photos-grid/__item/photos-grid__item.css);
 @font-face {
     font-family: 'Inter';
     src: url(../font/Inter/Inter-Black.otf);
