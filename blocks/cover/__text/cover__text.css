@@ -1,0 +1,6 @@
+.cover__text {
+    position: absolute;
+    z-index: 2;
+    margin: auto;
+    align-self: center;
+}

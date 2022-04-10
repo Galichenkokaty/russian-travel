@@ -1,0 +1,16 @@
+.place__website {
+    grid-area: website;
+    display: grid;
+    align-self: end;
+    height: 46px;
+    font-family: 'Inter normal';
+}
+
+@media screen and (min-width:320px) and (max-width:767px) {
+    .place__website {
+        display: block;
+        align-self: flex-start;
+        width: 95%;
+        margin: auto;
+    }
+}
