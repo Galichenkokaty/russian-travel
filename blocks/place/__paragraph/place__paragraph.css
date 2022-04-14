@@ -1,9 +1,10 @@
 .place__paragraph {
     color: white;
-    font-size: 18px;
+    font-size: 22px;
     margin-bottom: 27px;
     margin-top: 0;
     line-height: 1.5;
+    font-weight: lighter;
 }
 
 @media screen and (min-width:768px) and (max-width:1023px) {
@@ -12,6 +13,7 @@
         font-size: 16px;
         margin-bottom: 25px;
         margin-top: 0;
+        font-weight: lighter;
     }
 }
 
@@ -21,5 +23,6 @@
         font-size: 16px;
         margin-bottom: 25px;
         margin-top: 0;
+        font-weight: lighter;
     }
 }

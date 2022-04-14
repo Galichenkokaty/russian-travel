@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Inter';
+    src: url(../font/Inter/Inter-Regular.otf ) format('otf');
+}
+
+@font-face {
+    font-family: 'Inter bold';
+    src: url(../font/Inter/Inter-Bold.otf) format('otf');
+}
+
+@font-face {
+    font-family: 'Inter normal';
+    src: url(../font/Inter/Inter-Black.otf) format('otf');
+}

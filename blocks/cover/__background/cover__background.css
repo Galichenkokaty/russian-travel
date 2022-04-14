@@ -1,6 +1,7 @@
 .cover__background {
+    position: relative;
     width: 100%;
-    height: 100%;
+    object-fit: cover;
 }
 
 .cover__background:hover {
