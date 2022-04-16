@@ -37,9 +37,4 @@
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__links/footer__links.css);
-.page {
-    background-color: #2A2C2F;
-    font-family: 'Inter';
-    width: 100%;
-    margin: 0;
-}
+@import url(../blocks/page/page.css);

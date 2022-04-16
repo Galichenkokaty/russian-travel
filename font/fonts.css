@@ -1,14 +1,14 @@
 @font-face {
-    font-family: 'Inter';
+    font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
     src: url(../font/Inter/Inter-Regular.otf ) format('otf');
 }
 
 @font-face {
-    font-family: 'Inter bold';
+    font-family: 'Inter bold', 'Arial', 'Helvetica', sans-serif;
     src: url(../font/Inter/Inter-Bold.otf) format('otf');
 }
 
 @font-face {
-    font-family: 'Inter normal';
+    font-family: 'Inter normal', 'Arial', 'Helvetica', sans-serif;
     src: url(../font/Inter/Inter-Black.otf) format('otf');
 }
